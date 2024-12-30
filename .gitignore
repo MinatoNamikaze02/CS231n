@@ -1,0 +1,8 @@
+*_env
+*.csv
+
+.ipynb_checkpoints
+
+haiku
+
+.DS_Store
