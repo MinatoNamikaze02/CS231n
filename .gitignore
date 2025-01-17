@@ -1,7 +1,8 @@
 *_env
 *.csv
 
-.ipynb_checkpoints
+assignment1/.ipynb_checkpoints
+assignment2/.ipynb_checkpoints
 
 haiku
 
